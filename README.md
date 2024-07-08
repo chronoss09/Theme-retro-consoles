@@ -19,3 +19,8 @@ Téléchargement : [R36S - Switch Black Rounded v3](https://github.com/chronoss0
 ![PICTURE](https://github.com/chronoss09/Theme-retro-consoles/blob/main/custom-multi_epic/custom-multi_epic.jpg) 
 
 Téléchargement : [Custom Multi Epic](https://github.com/chronoss09/Theme-retro-consoles/releases/tag/custom_epic)
+
+## R36S - Custom Nes Box
+![PICTURE](https://github.com/chronoss09/Theme-retro-consoles/blob/main/custom-nes-box/home.jpg) 
+
+Téléchargement : [Custom Multi Epic](https://github.com/chronoss09/Theme-retro-consoles/releases/tag/cnesbox)
