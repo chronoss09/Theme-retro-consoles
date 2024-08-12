@@ -8,7 +8,7 @@
 ## RG35XX : Wario
 ![muOS_20240811_1517_0](https://github.com/user-attachments/assets/5c0a075b-fee3-49b3-8b85-70b4f726302a)
 
-Téléchargement : [MuOS Wario](en cours d'upload...)
+Téléchargement : [MuOS Wario](https://github.com/chronoss09/Theme-retro-consoles/releases/tag/xx_wario)
 
 ## RG35XX : Mario & Friends
 ![muOS_20240806_0721_0](https://github.com/user-attachments/assets/7e8c29c8-1e97-4f65-ba01-c462f9092a2a)
