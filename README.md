@@ -3,13 +3,15 @@
 </p>
 <p align="center"> Toutes mes thèmes mod sont pour la plus part traduit en Français, idéal si vous mettez votre console dans la langue Fr !!!
 	
-[![Buy me a coffee](https://img.shields.io/badge/Donate-Paypal-blue.svg)](https://www.paypal.com/paypalme/chronoss01)  [![Buy me a coffee](https://img.shields.io/badge/Donate-Kofi-orange.svg)](https://ko-fi.com/chronoss) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/R36S_Switch_Black_Rounded_v3/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/es_fr/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/custom_epic/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/cnesbox/total)  ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xxh_mariomuos/total)  ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xxh_gopika/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xxh_goevo/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xxh_mario/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xxh_peach/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xxh_yoshi/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_mfriends/total)
+[![Buy me a coffee](https://img.shields.io/badge/Donate-Paypal-blue.svg)](https://www.paypal.com/paypalme/chronoss01)  [![Buy me a coffee](https://img.shields.io/badge/Donate-Kofi-orange.svg)](https://ko-fi.com/chronoss) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/R36S_Switch_Black_Rounded_v3/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/es_fr/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/custom_epic/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/cnesbox/total)  ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xxh_mariomuos/total)  ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xxh_gopika/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xxh_goevo/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xxh_mario/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xxh_peach/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xxh_yoshi/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_mfriends/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_wario/total)
 
+## RG35XX : Wario
+![muOS_20240811_1517_0](https://github.com/user-attachments/assets/5c0a075b-fee3-49b3-8b85-70b4f726302a)
+
+Téléchargement : [MuOS Wario](en cours d'upload...)
 
 ## RG35XX : Mario & Friends
 ![muOS_20240806_0721_0](https://github.com/user-attachments/assets/7e8c29c8-1e97-4f65-ba01-c462f9092a2a)
-
-
 
 Téléchargement : [MuOS Mario & Friends](https://github.com/chronoss09/Theme-retro-consoles/releases/tag/xx_mfriends)
 
