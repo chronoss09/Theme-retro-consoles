@@ -13,6 +13,9 @@ Téléchargement : [Dragon Ball Daima](https://github.com/chronoss09/Theme-retro
 ## RG35XX : Gintama (Animated)
 ![muxlaunch copie](https://github.com/user-attachments/assets/d506713b-010f-4fac-aae5-ef796e49152b)
 
+v1.2  
+![muOS_20240609_1540_0](https://github.com/user-attachments/assets/9a290786-3831-4005-a80c-b7f58aefc9d2)
+
 Téléchargement : [Gintama Animated](https://github.com/chronoss09/Theme-retro-consoles/releases/tag/xx_gintama)
 
 ## RG35XX : One Piece (Animated)
