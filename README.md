@@ -4,7 +4,7 @@
 	
 [![Buy me a coffee](https://img.shields.io/badge/Donate-Paypal-blue.svg)](https://www.paypal.com/paypalme/chronoss01)  [![Buy me a coffee](https://img.shields.io/badge/Donate-Kofi-orange.svg)](https://ko-fi.com/chronoss) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/R36S_Switch_Black_Rounded_v3/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/es_fr/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/custom_epic/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/cnesbox/total)  ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xxh_mariomuos/total)  ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xxh_gopika/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xxh_goevo/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xxh_mario/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xxh_peach/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xxh_yoshi/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_mfriends/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_wario/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/hh_echozelda/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_royalmu/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_onep/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_muos/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_gintama/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_daima/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_gbos/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_snes/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_aveng/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_muos2/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_gb/total)
  
-## RG35XX : MuOS GameBoy
+## RG35XX : MuOS GameBoy (Animé)
 ![muOS_20240610_0503_0](https://github.com/user-attachments/assets/a4a79421-e4bd-4210-9b20-a65ea2e4e3d0)
 
 Téléchargement : MuOS GameBoy](https://github.com/chronoss09/Theme-retro-consoles/releases/tag/xx_gb)
@@ -35,7 +35,7 @@ Téléchargement : [GB OS](https://github.com/chronoss09/Theme-retro-consoles/re
 
 Téléchargement : [Dragon Ball Daima](https://github.com/chronoss09/Theme-retro-consoles/releases/tag/xx_daima)
 
-## RG35XX : Gintama (Animated)
+## RG35XX : Gintama (Animé)
 ![muxlaunch copie](https://github.com/user-attachments/assets/d506713b-010f-4fac-aae5-ef796e49152b)
 
 v1.2  
