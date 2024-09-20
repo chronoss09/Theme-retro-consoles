@@ -7,7 +7,7 @@
 ## RG35XX : MuOS GameBoy (Animé)
 ![muOS_20240610_0503_0](https://github.com/user-attachments/assets/a4a79421-e4bd-4210-9b20-a65ea2e4e3d0)
 
-Téléchargement : MuOS GameBoy](https://github.com/chronoss09/Theme-retro-consoles/releases/tag/xx_gb)
+Téléchargement : [MuOS GameBoy](https://github.com/chronoss09/Theme-retro-consoles/releases/tag/xx_gb)
 
 ## RG35XX : MuOS Stock theme mod (new mod)
 ![muOS_20240603_0013_0](https://github.com/user-attachments/assets/a383a4fc-e4eb-4db5-b73e-b66d8014b164)
