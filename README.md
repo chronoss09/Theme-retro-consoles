@@ -7,6 +7,9 @@
 ## RG35XX : MuOS EpicNoir
 ![muOS_20240630_0150_0](https://github.com/user-attachments/assets/3ea239ab-ff0c-4fe4-b8d8-a18f34c01d44)
 
+__Ajout des images des dossiers des roms :__  
+![Game folder copie](https://github.com/user-attachments/assets/2c1f62b6-5dea-46b7-bfb1-54bbb2237081)
+
 Téléchargement : [MuOS EpicNoir](https://github.com/chronoss09/Theme-retro-consoles/releases/tag/xx_epn)
 
 ## RG35XX : MuOS GameBoy v2 (Animé)
