@@ -8,7 +8,9 @@
 ![muOS_20240630_0150_0](https://github.com/user-attachments/assets/3ea239ab-ff0c-4fe4-b8d8-a18f34c01d44)
 
 __Ajout des images des dossiers des roms :__  
-![Game folder copie](https://github.com/user-attachments/assets/2c1f62b6-5dea-46b7-bfb1-54bbb2237081)
+![Game folder copie](https://github.com/user-attachments/assets/2c1f62b6-5dea-46b7-bfb1-54bbb2237081)  
+__MAJ 12.10 : ajout des images des dossiers roms :__  
+![Game folder2 copie](https://github.com/user-attachments/assets/6bc245d4-d9ab-4da2-ad26-a201431f44e4)
 
 Téléchargement : [MuOS EpicNoir](https://github.com/chronoss09/Theme-retro-consoles/releases/tag/xx_epn)
 
