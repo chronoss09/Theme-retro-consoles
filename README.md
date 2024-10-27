@@ -7,7 +7,7 @@
 ## RG35XX : Mario & Luigi : Conexion Fraternal
 ![Mario   Luigi - Conexion Fraternal copie](https://github.com/user-attachments/assets/a524601d-70a9-4016-9abd-b55d95a94aac)
 
-Téléchargement : [Mario & Luigi : Conexion Fraternal](https://github.com/chronoss09/Theme-retro-consoles/releases/tag/xxh_mlfrat)
+Téléchargement : [Mario & Luigi : Conexion Fraternal](https://github.com/chronoss09/Theme-retro-consoles/releases/tag/xx_mlfrat)
 
 ## RG35XX : MuOS Mario Banana
 ![muOS_20241022_0844_0](https://github.com/user-attachments/assets/78828b38-736f-4e40-a65f-9a79d8d08bb1)
