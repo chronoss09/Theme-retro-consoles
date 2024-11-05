@@ -1,4 +1,4 @@
-![Gif Charging - Fast Charging_1](https://github.com/user-attachments/assets/9094d74b-5545-4bd7-9a9a-566867d9d033)<p align="center" >
+<p align="center" >
   <img  src="https://github.com/chronoss09/Theme-retro-consoles/blob/main/Banniere.jpg" alt="Material Bread logo" align="center">
 </p>
 	
