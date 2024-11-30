@@ -24,7 +24,7 @@ Téléchargement : [Epic muOS](https://github.com/chronoss09/Theme-retro-console
 ## RGXX : Epic muOS
 ![Epic muOS](https://github.com/user-attachments/assets/9d52f3c8-ce29-444f-be93-3dca2e032278)
 
-Téléchargement : [Epic muOS](https://github.com/chronoss09/Theme-retro-consoles/releases/tag/xx_nepn)
+Téléchargement : [Epic muOS](https://github.com/chronoss09/Theme-retro-consoles/releases/tag/xx_epm)
 
 ## RG35XX : New Epic Noir
 ![new epic](https://github.com/user-attachments/assets/ae00ca3f-cead-4730-ac79-40b86e17293c)
