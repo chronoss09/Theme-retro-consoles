@@ -4,12 +4,12 @@
 	
 [![Buy me a coffee](https://img.shields.io/badge/Donate-Paypal-blue.svg)](https://www.paypal.com/paypalme/chronoss01)  [![Buy me a coffee](https://img.shields.io/badge/Donate-Kofi-orange.svg)](https://ko-fi.com/chronoss) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/R36S_Switch_Black_Rounded_v3/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/es_fr/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/custom_epic/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/cnesbox/total)  ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xxh_mariomuos/total)  ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xxh_gopika/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xxh_goevo/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xxh_mario/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xxh_peach/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xxh_yoshi/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_mfriends/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_wario/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/hh_echozelda/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_royalmu/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_onep/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_muos/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_gintama/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_daima/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_gbos/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_snes/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_aveng/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_muos2/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_gb/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_gb2/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_cyber/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_epn/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/banana/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_epnb/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_mlfrat/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_cat/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_charge/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_cart2/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_yorha/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_newban/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_minui/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_nepn/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_epm/total)
 
-## NES muOS
+## NES muOS  (portage)
 ![lite](https://github.com/user-attachments/assets/2be89d94-d5c3-45c3-b1e6-682cbbb796e6)
 
 Téléchargement : [NES muOS](https://github.com/chronoss09/Theme-retro-consoles/releases/tag/xx_nes)
 
-## Switch muOS
+## Switch muOS  (portage)
 ![lite](https://github.com/user-attachments/assets/5b156c08-0d4e-47af-8c9d-1fa252a1c52f)
 
 Téléchargement : [Epic muOS](https://github.com/chronoss09/Theme-retro-consoles/releases/tag/xx_sw)
@@ -21,7 +21,7 @@ Téléchargement : [Epic muOS](https://github.com/chronoss09/Theme-retro-console
 
 Téléchargement : [Epic muOS](https://github.com/chronoss09/Theme-retro-consoles/releases/tag/xx_upd)
 
-## RGXX : Epic muOS
+## RGXX : Epic muOS  (portage)
 ![Epic muOS](https://github.com/user-attachments/assets/9d52f3c8-ce29-444f-be93-3dca2e032278)
 
 Téléchargement : [Epic muOS](https://github.com/chronoss09/Theme-retro-consoles/releases/tag/xx_epm)
@@ -46,7 +46,7 @@ Téléchargement : [New Custom MuOS Banana](https://github.com/chronoss09/Theme-
 
 Téléchargement : [YoRHa Onion MuOS](https://github.com/chronoss09/Theme-retro-consoles/releases/tag/xx_yorha)
 
-## RG35XX : YoRHa Onion MuOS
+## RG35XX : MuOS - Console Art 2
 ![Console Art copie](https://github.com/user-attachments/assets/096a239f-44f9-4782-9213-6a1e7211553e)
 
 Téléchargement : [MuOS - Console Art 2](https://github.com/chronoss09/Theme-retro-consoles/releases/tag/xx_cart2)
