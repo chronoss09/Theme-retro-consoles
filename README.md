@@ -7,7 +7,7 @@
 ## RGXX : muOS Switch
 ![lite](https://github.com/user-attachments/assets/ce515d9c-3ff2-43cd-bf17-2b256a599cf2)
 
-Téléchargement : muOS Switch](https://github.com/chronoss09/Theme-retro-consoles/releases/tag/swm)
+Téléchargement : [muOS Switch](https://github.com/chronoss09/Theme-retro-consoles/releases/tag/swm)
 
 ## RGXX : Stock on muOS
 ![lite](https://github.com/user-attachments/assets/d40bc2ba-3444-48d5-b9e7-e9b6895d9790)
