@@ -6,9 +6,9 @@
 
 ## RGXX : Pixel World (Multi)
 ![lite](https://github.com/user-attachments/assets/0c3ca0b5-be43-4b91-a8f6-6af890d83d2c)  
-![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/pixel/total)
+![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/pixelw/total)
 
-Téléchargement : [Pixel World](https://github.com/chronoss09/Theme-retro-consoles/releases/tag/smuosclassic)
+Téléchargement : [Pixel World](https://github.com/chronoss09/Theme-retro-consoles/releases/tag/pixelw)
 
 ## RGXX : Super muOS (SNES classic)
 ![lite](https://github.com/user-attachments/assets/3c44b140-71ac-457d-b022-6ce0e34d25c7)  
