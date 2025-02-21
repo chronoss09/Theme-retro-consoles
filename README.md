@@ -4,6 +4,12 @@
 	
 [![Buy me a coffee](https://img.shields.io/badge/Donate-Paypal-blue.svg)](https://www.paypal.com/paypalme/chronoss01)  [![Buy me a coffee](https://img.shields.io/badge/Donate-Kofi-orange.svg)](https://ko-fi.com/chronoss) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/total)                                       
 
+## RG35XX : Custom MuOS Banana (Pixie)
+![muOS_20241011_0754_0](https://github.com/user-attachments/assets/9d9bd8f0-e319-4a42-b3cb-243329da52e1)  
+![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/banana/total)
+
+Téléchargement : [Custom MuOS Banana](https://github.com/chronoss09/Theme-retro-consoles/releases/tag/banana)
+
 ## RGXX : muOS Alekfull-NX Banana
 ![lite](https://github.com/user-attachments/assets/d1a3a7b6-e06b-47b2-8e71-0e0dbda423cc)  
  ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/alekban/total)
@@ -168,12 +174,6 @@ Téléchargement : [GB OS Banana](https://github.com/chronoss09/Theme-retro-cons
 ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/xx_epnb/total)
 
 Téléchargement : [MuOS EpicNoir Banana](https://github.com/chronoss09/Theme-retro-consoles/releases/tag/xx_epnb)
-
-## RG35XX : Custom MuOS Banana
-![muOS_20241011_0754_0](https://github.com/user-attachments/assets/9d9bd8f0-e319-4a42-b3cb-243329da52e1)  
-![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/banana/total)
-
-Téléchargement : [Custom MuOS Banana](https://github.com/chronoss09/Theme-retro-consoles/releases/tag/banana)
 
 ## RG35XX : MuOS EpicNoir
 ![muOS_20240630_0150_0](https://github.com/user-attachments/assets/3ea239ab-ff0c-4fe4-b8d8-a18f34c01d44)
