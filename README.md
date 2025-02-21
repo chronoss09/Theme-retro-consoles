@@ -6,7 +6,7 @@
 
 ## RGXX : muOS Alekfull-NX Banana (Pixie) MAJ
 ![lite](https://github.com/user-attachments/assets/d1a3a7b6-e06b-47b2-8e71-0e0dbda423cc)  
- ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/alekban/total)
+ ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/alekban/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/alekpixie/total)
 
 Téléchargement : [muOS Alekfull-NX Banana](https://github.com/chronoss09/Theme-retro-consoles/releases/tag/alekban)  
 Téléchargement : [muOS Alekfull-NX Pixie](https://github.com/chronoss09/Theme-retro-consoles/releases/tag/alekpixie)
