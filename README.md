@@ -4,6 +4,12 @@
 	
 [![Buy me a coffee](https://img.shields.io/badge/Donate-Paypal-blue.svg)](https://www.paypal.com/paypalme/chronoss01)  [![Buy me a coffee](https://img.shields.io/badge/Donate-Kofi-orange.svg)](https://ko-fi.com/chronoss) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/total)                                       
 
+## RGXX : muOS Mini Epic Noir
+![lite](https://github.com/user-attachments/assets/e8e0ead6-b725-477f-b611-887f50b25922)  
+![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/miniepic/total)
+
+Téléchargement : [muOS Mini Epic Noir](https://github.com/chronoss09/Theme-retro-consoles/releases/tag/miniepic)
+
 ## RGXX : muOS Alekfull-NX Banana (Pixie) MAJ
 ![lite](https://github.com/user-attachments/assets/d1a3a7b6-e06b-47b2-8e71-0e0dbda423cc)  
  ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/alekban/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/alekpixie/total)
