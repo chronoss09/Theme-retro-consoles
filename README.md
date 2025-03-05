@@ -1,8 +1,16 @@
 <p align="center" >
   <img  src="https://github.com/chronoss09/Theme-retro-consoles/blob/main/Banniere.jpg" alt="Material Bread logo" align="center">
 </p>
-	
-[![Buy me a coffee](https://img.shields.io/badge/Donate-Paypal-blue.svg)](https://www.paypal.com/paypalme/chronoss01)  [![Buy me a coffee](https://img.shields.io/badge/Donate-Kofi-orange.svg)](https://ko-fi.com/chronoss) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/total)                                       
+<p align="center">
+ <a href="https://www.paypal.com/paypalme/chronoss01">
+        <img src="https://img.shields.io/badge/Donate-Paypal-blue.svg" width="130">
+ <a href="https://ko-fi.com/chronoss">
+        <img src="https://img.shields.io/badge/Donate-Kofi-orange.svg" width="110">
+ <a href="https://github.com/chronoss09/Theme-retro-consoles/releases/latest">
+        <img src="https://img.shields.io/github/downloads/chronoss09/Theme-retro-consoles/total.svg" width="135">
+ <a href="https://github.com/chronoss09/Theme-retro-consoles/stargazers">
+        <img src="https://img.shields.io/github/stars/chronoss09/Theme-retro-consoles" width="110">
+</p>
 
 ## RGXX : muOS Mini Epic Noir
 ![lite](https://github.com/user-attachments/assets/e8e0ead6-b725-477f-b611-887f50b25922)  
